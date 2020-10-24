@@ -1,6 +1,6 @@
 {
-	"name": "laravelium/feed",
-	"description": "Laravelium Feed package for Laravel.",
+	"name": "teclaelvis01/feed-news",
+	"description": "Fork of Laravelium Feed package for Laravel.",
 	"homepage": "https://laravelium.com",
 	"keywords": ["laravelium", "laravel", "feed", "generator", "rss", "atom"],
 	"license": "MIT",
