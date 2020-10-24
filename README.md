@@ -13,7 +13,7 @@
 Run the following command and provide the latest stable version (e.g v8.\*) :
 
 ```bash
-composer require laravelium/feed
+composer require teclaelvis01/feed-news
 ```
 
 or add the following to your `composer.json` file :
