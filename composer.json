@@ -1,15 +1,15 @@
 {
-	"name": "laravelium/feed",
+	"name": "teclaelvis01/feed-new",
 	"description": "Laravelium Feed package for Laravel.",
 	"homepage": "https://laravelium.com",
 	"keywords": ["laravelium", "laravel", "feed", "generator", "rss", "atom"],
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Roumen Damianoff",
-			"email": "roumen@damianoff.com",
+			"name": "Elvis Reyes",
+			"email": "teclaelvis01@gmail.com",
 			"role": "Developer",
-			"homepage": "https://damianoff.com"
+			"homepage": "https://elvisreyes.com"
 		}
 	],
 	"require": {
