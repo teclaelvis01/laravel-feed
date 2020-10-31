@@ -216,7 +216,7 @@ class Feed
      *
      * @return void
      */
-    public function add($title, $author, $link, $pubdate, $description, $content='', $enclosure = [], $category='', $subtitle='', $duration ='')
+    public function add($title, $author, $link, $pubdate, $description, $content='', $enclosure = [], $category='', $subtitle='', $duration ='',$imgTitle = '')
     {
         // append ... to description
         $append = '';
@@ -240,7 +240,8 @@ class Feed
       'enclosure' => $enclosure,
       'category' => $category,
       'subtitle' => htmlspecialchars(strip_tags($subtitle), ENT_COMPAT, 'UTF-8'),
-        'duration' => $duration
+        'duration' => $duration,
+          'imgTitle' => $imgTitle
     ]);
     }
 
